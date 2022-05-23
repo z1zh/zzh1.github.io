@@ -181,7 +181,7 @@ html {
   height: 80px;
   line-height: 80px;
   text-align: center;
-  font-size: 12px;
+  font-size: 28px;
   color: tomato;
 }
 
@@ -199,8 +199,8 @@ html {
 
 .list li:hover a {
   /* 鼠标滑过a标签样式变化 */
-  color: rgb(11, 70, 65);
-  font-size: 15px;
+  color: rgb(57, 255, 239);
+  font-size: 25px;
   transition: 0.1s;
 }
 
@@ -1131,9 +1131,9 @@ box-shadow: 2px 5px 5px rgb(197, 197, 197);
   height: 600px;
   margin: 100px auto;
   background-color: rgb(0, 0, 0, 0.4);
-  box-shadow: 1px 1px 5px  rgb(237, 42, 255);
+  box-shadow: 1px 1px 10px  rgb(207, 190, 105);
 }
-/* 前端学习路线图 */
+/* 点击开始你的专属设计 */
 #jsz .lxt{
   position: absolute;
   top: -17%;
